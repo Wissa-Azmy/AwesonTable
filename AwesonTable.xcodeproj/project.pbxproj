@@ -13,6 +13,7 @@
 		4427D72523ACF871000A0715 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4427D72323ACF871000A0715 /* Main.storyboard */; };
 		4427D72723ACF872000A0715 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4427D72623ACF872000A0715 /* Assets.xcassets */; };
 		4427D72A23ACF872000A0715 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4427D72823ACF872000A0715 /* LaunchScreen.storyboard */; };
+		4427D73223ACF89D000A0715 /* GenericTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4427D73123ACF89D000A0715 /* GenericTableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4427D72623ACF872000A0715 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4427D72923ACF872000A0715 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4427D72B23ACF872000A0715 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4427D73123ACF89D000A0715 /* GenericTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericTableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4427D71D23ACF871000A0715 /* AppDelegate.swift */,
 				4427D71F23ACF871000A0715 /* SceneDelegate.swift */,
 				4427D72123ACF871000A0715 /* ViewController.swift */,
+				4427D73123ACF89D000A0715 /* GenericTableView.swift */,
 				4427D72323ACF871000A0715 /* Main.storyboard */,
 				4427D72623ACF872000A0715 /* Assets.xcassets */,
 				4427D72823ACF872000A0715 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4427D72223ACF871000A0715 /* ViewController.swift in Sources */,
+				4427D73223ACF89D000A0715 /* GenericTableView.swift in Sources */,
 				4427D71E23ACF871000A0715 /* AppDelegate.swift in Sources */,
 				4427D72023ACF871000A0715 /* SceneDelegate.swift in Sources */,
 			);
